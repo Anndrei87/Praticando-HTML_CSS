@@ -1,7 +1,7 @@
 ## Praticando-HTML_CSS
 
 <div>
-  Projeto feito para praticar alguns conceitos de HTML e CSS
+  Projeto feito para praticar alguns conceitos básicos de HTML e CSS.
 </div>
 
 
